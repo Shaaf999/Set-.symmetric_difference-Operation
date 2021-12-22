@@ -1,0 +1,6 @@
+E=int(input())
+e=set(input.split())
+F=int(input())
+f=set(input.split())
+s3=e^f
+print(len(s3))
